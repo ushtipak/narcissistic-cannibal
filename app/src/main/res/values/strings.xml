@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Narcissistic Cannibal</string>
+    <string name="btnAcquireDNDPerms">acquire DND perms</string>
+</resources>
